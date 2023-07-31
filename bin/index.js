@@ -97,3 +97,5 @@ program
   });
 
 program.parse(process.argv);
+
+console.log("feature-02-commit-02");
